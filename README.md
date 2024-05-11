@@ -5,6 +5,7 @@ Junior Software Developer
 I graduated with a Bachelor of Computer Science in 2021, and have since worked on a few small side projects and workflow automations. I am currently developing my programming skills through independent projects in Python, Java, and C#, and occasionally look into game development on the side.
 * 🌍  I'm based in Western Australia
 * ⚡  My current hobbies include reading, writing, and Japanese language studies (Although current\_level == "Extreme Beginner" currently returns true).
+* 📖  My future interests are to delve into AI development, in particular neural networks and chatbots, as I find them particularly fascinating.
 
 ### Skills
 
